@@ -116,3 +116,4 @@ services:
     mem_limit: 256M
     ports:
     - 3306:3306
+    
